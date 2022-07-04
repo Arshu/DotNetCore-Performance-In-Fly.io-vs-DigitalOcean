@@ -14,6 +14,7 @@
 
  Note : Click the Bottom Left Corner to get the Performance Tip to be display in the web page.
 
+Home Page Accessed in Singapore Deployed in fly.io Singapore Instance and Digital Ocean Singapore Instance
 ![Home Page Performance Comparison](images/home_page_performance.png) "Home Page Performance Comparison").
 
 # Performance Measurement
